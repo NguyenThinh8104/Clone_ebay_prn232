@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\be\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|solutionrelative:be\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\be\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|solutionrelative:be\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\be\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|solutionrelative:be\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\be\\common\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|solutionrelative:be\\common\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|solutionrelative:be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\fe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|solutionrelative:fe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\fe\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|solutionrelative:fe\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|solutionrelative:fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\fe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD63A9-C628-4E96-9989-D4BBB4F68108}|FE\\FE.csproj|solutionrelative:fe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|c:\\users\\dell\\desktop\\k\u00EC 8\\bl5_prn232\\prn232_ebay_group_project\\be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE8B5B-E5BE-46D1-A7F8-897FCD9A852E}|BE\\BE.csproj|solutionrelative:be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:64:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "BE\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "BE\\Controllers\\SellerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:11:40.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShippingController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Controllers\\ShippingController.cs",
+              "RelativeDocumentMoniker": "BE\\Controllers\\ShippingController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Controllers\\ShippingController.cs",
+              "RelativeToolTip": "BE\\Controllers\\ShippingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:11:40.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BE\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:11:32.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:11:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "FE\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "FE\\Controllers\\CouponController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:11:15.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FE\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:11:14.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FE\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\FE\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FE\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:11:12.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Program.cs",
+              "RelativeDocumentMoniker": "BE\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Program.cs",
+              "RelativeToolTip": "BE\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:10:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Common\\PaginationFilter.cs",
+              "RelativeDocumentMoniker": "BE\\Common\\PaginationFilter.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Common\\PaginationFilter.cs",
+              "RelativeToolTip": "BE\\Common\\PaginationFilter.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:10:44.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "BE\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\K\u00EC 8\\Bl5_PRN232\\PRN232_Ebay_Group_Project\\BE\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "BE\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:10:37.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
