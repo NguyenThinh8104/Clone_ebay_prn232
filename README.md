@@ -10,13 +10,13 @@ Dự án môn **PRN232** — Xây dựng phân hệ Người bán (Seller Subsys
 ## 👥 2. Phân công 7 Module Fullstack (Nhóm 2)
 | Module | Thành viên phụ trách | Phạm vi nghiệp vụ & Bảng dữ liệu |
 | :--- | :--- | :--- |
-| **Module 1** | **Thành viên 1 (Leader)** | Auth (Register, Login JWT, Refresh Token), Nộp & Duyệt hồ sơ Seller (Mô phỏng KYC 3 lớp), Quản lý gian hàng (`StoreProfile`).<br>👉 *Bảng:* `User`, `Store` |
-| **Module 2** | **Thành viên 2** | Đăng bán sản phẩm (Fixed price & Auction), Danh sách & Filter, Cập nhật/Ẩn/Xoá sản phẩm, Quản lý tồn kho (`Inventory`), Tự động đóng phiên đấu giá.<br>👉 *Bảng:* `Product`, `Inventory`, `Category`, `Bid` |
-| **Module 3** | **Thành viên 3** | Tiếp thị & Mã giảm giá (`Coupon` gắn từng sản phẩm), Kiểm tra hiệu lực mã lúc checkout, Thống kê lượt dùng mã.<br>👉 *Bảng:* `Coupon` |
-| **Module 4** | **Thành viên 4** | Quản lý Đơn hàng Seller, Xác nhận đơn & Trừ tồn kho, Cập nhật trạng thái vận chuyển theo State Machine, Tạo nhãn vận chuyển giả lập (`ShippingInfo`).<br>👉 *Bảng:* `OrderTable`, `OrderItem`, `Payment`, `ShippingInfo` |
+| **Module 1** | **Hoàng** | Auth (Register, Login JWT, Refresh Token), Nộp & Duyệt hồ sơ Seller (Mô phỏng KYC 3 lớp), Quản lý gian hàng (`StoreProfile`).<br>👉 *Bảng:* `User`, `Store` |
+| **Module 2** | **Thành** | Đăng bán sản phẩm (Fixed price & Auction), Danh sách & Filter, Cập nhật/Ẩn/Xoá sản phẩm, Quản lý tồn kho (`Inventory`), Tự động đóng phiên đấu giá.<br>👉 *Bảng:* `Product`, `Inventory`, `Category`, `Bid` |
+| **Module 3** | **Hieudeptrai123xxx** | Tiếp thị & Mã giảm giá (`Coupon` gắn từng sản phẩm), Kiểm tra hiệu lực mã lúc checkout, Thống kê lượt dùng mã.<br>👉 *Bảng:* `Coupon` |
+| **Module 4** | **Thịnh** | Quản lý Đơn hàng Seller, Xác nhận đơn & Trừ tồn kho, Cập nhật trạng thái vận chuyển theo State Machine, Tạo nhãn vận chuyển giả lập (`ShippingInfo`).<br>👉 *Bảng:* `OrderTable`, `OrderItem`, `Payment`, `ShippingInfo` |
 | **Module 5** | **Thành viên 5** | Xem & Phản hồi Đánh giá (`Review` — phản hồi 1 lần duy nhất), Tính chỉ số uy tín (`Feedback`), Xử lý Yêu cầu Đổi trả (`ReturnRequest` - Money Back Guarantee), Giải quyết Khiếu nại (`Dispute`).<br>👉 *Bảng:* `Review`, `Feedback`, `ReturnRequest`, `Dispute` |
-| **Module 6** | **Thành viên 6** | Dashboard Báo cáo Doanh số (KPI Cards, Top sản phẩm bán chạy, Biểu đồ doanh thu theo thời gian, Chỉ số hiệu suất giao trễ/dispute).<br>👉 *Bảng:* `SalesSummary` (Denormalized) |
-| **Module 7** | **Thành viên 7** | Kênh Chat CSKH Realtime (SignalR / Fallback Polling), Lịch sử hội thoại 1-1, Đánh dấu đã đọc & Badge chưa đọc.<br>👉 *Bảng:* `Message` |
+| **Module 6** | **Luân** | Dashboard Báo cáo Doanh số (KPI Cards, Top sản phẩm bán chạy, Biểu đồ doanh thu theo thời gian, Chỉ số hiệu suất giao trễ/dispute).<br>👉 *Bảng:* `SalesSummary` (Denormalized) |
+| **Module 7** | **Đăng** | Kênh Chat CSKH Realtime (SignalR / Fallback Polling), Lịch sử hội thoại 1-1, Đánh dấu đã đọc & Badge chưa đọc.<br>👉 *Bảng:* `Message` |
 ---
 ## 🗄 3. Cấu trúc Database (`CloneEbayDB`)
 Sơ đồ gồm **17 bảng chính + 1 bảng tổng hợp**:
