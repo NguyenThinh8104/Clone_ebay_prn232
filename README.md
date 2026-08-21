@@ -101,9 +101,7 @@ dotnet run
 ```
 
 ### 6. Cấu trúc thư mục Source Code
-text
-
-
+```
 PRN232_Ebay_Group_Project/
 ├── clone_ebay_sqlserver_schema.sql   # File khởi tạo Database & Seed Data
 ├── PRN232_Ebay_Group_Project.sln     # Solution file (.NET 8)
@@ -121,4 +119,4 @@ PRN232_Ebay_Group_Project/
     ├── Controllers/                  # MVC View Controllers (Module 1 - 7)
     ├── Models/                       # View Models
     └── Views/                        # Razor Views UI
-1:14 PM
+```
